@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
         WebSettings webSettings = myWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
         myWebView.setWebViewClient(new WebViewClient());
-        myWebView.loadUrl("https://developer.chrome.com/multidevice/webview/gettingstarted");
+        myWebView.loadUrl("https://webview-jsebastian1422.c9users.io/view/index.php");
     }
 }
